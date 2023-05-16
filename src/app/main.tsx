@@ -1,3 +1,11 @@
+import Product from "./compnents/product";
+
 export default function Main() {
-  return <div>Main</div>;
+  return (
+    <div>
+      <Product />
+      <Product />
+      <Product />
+    </div>
+  );
 }
