@@ -1,11 +1,9 @@
-import Product from "./compnents/product";
+import Products from "./compnents/products";
 
 export default function Main() {
   return (
-    <div>
-      <Product />
-      <Product />
-      <Product />
+    <div className="dark:bg-gray-800">
+      <Products />
     </div>
   );
 }
