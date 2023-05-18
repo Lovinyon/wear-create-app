@@ -22,6 +22,7 @@ export default function RootLayout({
       <body className="dark:bg-gray-800">
         <Header />
         <Main />
+        {children}
         <Footer />
       </body>
     </html>
