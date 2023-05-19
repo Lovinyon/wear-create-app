@@ -21,8 +21,7 @@ export default function RootLayout({
     <html lang="ja">
       <body className="dark:bg-gray-800">
         <Header />
-        <Main />
-        {children}
+        <Main>{children}</Main>
         <Footer />
       </body>
     </html>
