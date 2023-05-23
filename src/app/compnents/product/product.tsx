@@ -6,7 +6,7 @@ export default function Product() {
     <div className="max-w-sm rounded-lg dark:bg-gray-800 justify-self-center">
       <Image
         className="rounded-t-lg"
-        src="/next.svg"
+        src="/black-t 1.svg"
         alt=""
         width={200}
         height={200}
