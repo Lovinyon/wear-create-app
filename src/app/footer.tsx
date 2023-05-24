@@ -13,8 +13,8 @@ export default function Footer() {
               className="rounded-t-lg"
               src="/wc.svg"
               alt=""
-              width={50}
-              height={50}
+              width={35}
+              height={35}
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
               Wear Create
