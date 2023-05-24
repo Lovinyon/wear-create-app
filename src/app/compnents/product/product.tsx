@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Product() {
   return (
-    <div className="max-w-sm rounded-lg dark:bg-gray-800 justify-self-center dark:hover:bg-indigo-500/75">
+    <div className="max-w-sm rounded-lg dark:bg-gray-800 justify-self-center dark:hover:bg-indigo-500/75 py-7">
       <Link href="#">
         <Image
           className="rounded-t-lg hover:fill-cyan-700"

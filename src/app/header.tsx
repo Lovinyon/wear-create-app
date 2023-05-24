@@ -8,15 +8,15 @@ export default function Header() {
         aria-label="Global"
       >
         <a
-          className="text-gray-50 flex-none text-5xl font-size:3rem flex"
+          className="text-gray-50 flex-none text-2xl font-size:3rem flex"
           href="#"
         >
           <Image
             className="rounded-t-lg"
             src="/wc.svg"
             alt=""
-            width={50}
-            height={50}
+            width={35}
+            height={35}
           />
           Wear Create
         </a>
