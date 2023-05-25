@@ -1,10 +1,11 @@
 import Product from "../compnents/product/product";
+import Selection_area from "../compnents/selection_area";
 
 export default function Work() {
   return (
     <div>
-      Work
       <Product />
+      <Selection_area />
     </div>
   );
 }
