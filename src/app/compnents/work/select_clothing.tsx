@@ -1,3 +1,5 @@
+import Change_clothing from "./change_clothing";
+
 export default function Select_clothing() {
   return (
     <select
