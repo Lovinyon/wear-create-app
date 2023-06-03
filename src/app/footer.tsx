@@ -17,7 +17,7 @@ export default function Footer() {
               height={35}
             />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Wear Create
+              Lovinyon
             </span>
           </a>
           <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
@@ -30,7 +30,7 @@ export default function Footer() {
         </div>
         <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
-          © 2023 Wear Create
+          © 2023 Lovinyoun Portal
         </span>
       </div>
     </footer>

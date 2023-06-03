@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-export default function Clothing_type() {
+export default function Description_image() {
   return (
     <div>
       <Image

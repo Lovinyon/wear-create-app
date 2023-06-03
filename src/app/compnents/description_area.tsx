@@ -1,7 +1,7 @@
-import Select_clothing from "./work/select_clothing";
+import Select_clothing from "./work/description";
 import Next_button from "./product/next_button";
 
-export default function Selection_area() {
+export default function Description_area() {
   return (
     <form action="" method="post">
       <div className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
